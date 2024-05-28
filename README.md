@@ -1,4 +1,4 @@
-# Onafriq-QA-Assessment
+# QA-Assessment
 
 
 This repo contains automated tests for the AutomationExercise at [here](https://www.automationexercise.com/) 
